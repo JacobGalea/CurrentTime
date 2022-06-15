@@ -1,0 +1,14 @@
+body {
+	font-family: system-ui;
+	background: #00181b;
+	color: white;
+	text-align: center;
+}
+
+.all {
+	margin: auto;
+	margin-top: 25%;
+	width: 50%;
+	border: 3px solid rgb(0, 58, 0);
+	padding: 10px;
+}
